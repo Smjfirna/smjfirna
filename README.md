@@ -9,7 +9,7 @@ I'm a Student Information system specializing interest at Data Science Machine L
 - 💬 I enjoy discussing about Data!.
 
 
-## Bahasa dan Tools
+## Languages and Tools
 
 I frequently work with the following languages and tools:
 
