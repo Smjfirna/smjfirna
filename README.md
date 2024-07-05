@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about uncovering insights from data
 ![Php](https://img.shields.io/badge/-Php-0D1117?style=flat&logo=php)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=flat&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=flat&logo=mysql)
-![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-0D1117?style=flat&logo=microsoft-office)
+![Microsoft 365](https://img.shields.io/badge/-Microsoft%20Office-0D1117?style=flat&logo=microsoft-office)
 
 * My thesis project comparing different CNN architectures for classifying maize leaf diseases. [Repository](https://github.com/Smjfirna/Arsitektur-Compration)
 
