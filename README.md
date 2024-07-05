@@ -5,8 +5,16 @@
 Welcome to my GitHub profile! I'm passionate about uncovering insights from data and building intelligent systems. Here, you'll find some of my personal projects.
 
 ## Education 🎓
-- **Information System Student**
-  I'm currently pursuing my degree in Information Systems. My coursework includes data analysis, data science, and machine learning. My thesis focuses on comparing CNN architectures for classifying maize leaf diseases.
+**Information System Student**
+* I'm currently pursuing my degree in Information Systems. My coursework includes data analysis, data science, machine learning and web depelover.
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Php](https://img.shields.io/badge/-Php-0D1117?style=flat&logo=php)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=flat&logo=bootstrap)
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=flat&logo=mysql)
+![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-0D1117?style=flat&logo=microsoft-office)
+
+* My thesis project comparing different CNN architectures for classifying maize leaf diseases. [Repository](https://github.com/Smjfirna/Arsitektur-Compration)
 
 ## Skills and Tools 🛠️
 
@@ -18,20 +26,22 @@ Welcome to my GitHub profile! I'm passionate about uncovering insights from data
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40">
+<img src="https://img.shields.io/badge/-SPSS-0D1117?style=flat&logo=ibm" width="60" height="40">
+<img src="https://img.shields.io/badge/-Streamlit-0D1117?style=flat&logo=streamlit" width="60" height="40">
+<img src="https://img.shields.io/badge/-Google%20Colab-0D1117?style=flat&logo=google-colab" width="60" height="40">
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=flat&logo=visual-studio-code" width="60" height="40">
 
 ## Projects 🚀
 
-* [FOODECTION](https://github.com/hildazaqya/project-capstone) A group capstone project in machine learning that focuses on food detection using Deep learning Cnvolutional Neural Network(CNN) algorithms.
-* [Mental Healt Chatbot](https://github.com/Smjfirna/Mental-Health-Chatbot) A NLP Model developed during my independent study in Data Science to provide mental health resources.
-* [CNN architecture comparison on corn leaf disease classification](https://github.com/Smjfirna/Arsitektur-Compration) My thesis project comparing different CNN architectures for classifying maize leaf diseases.
-* [Movie Recommendation System](https://github.com/Smjfirna/Movie_recommendation-system) Project to create a recommendation system from Movielens 100K dataset
+### Data Analisys 📊
 * [Data analisys with Streamlit Dashboard](https://github.com/Smjfirna/Bike-Sharing-Data-Analisys) Project Analyze Bike Sharing Dataset data and create interactive dashboard with streamlit
-* [Customer churn prediction](https://github.com/Smjfirna/Customer-churn-prediction) predicting customer churn, which refers to the likelihood of a customer discontinuing their use of a company's product or service. By identifying customers who are at risk of churning, businesses can take proactive measures to retain them, thus enhancing customer satisfaction and profitability.
-  
-## Summary
-I'm passionate about leveraging data to drive decision-making and innovation. Let's connect and collaborate on exciting projects!
+
+### Data Science and Machine Learning 🤖
+* [FOODECTION](https://github.com/hildazaqya/project-capstone) A group capstone project in machine learning that focuses on food detection using Deep learning Cnvolutional Neural Network(CNN) algorithms.
+* [Mental Health Chatbot](https://github.com/Smjfirna/Mental-Health-Chatbot) A NLP Model developed during my independent study in Data Science to provide mental health resources.
+* [Movie Recommendation System](https://github.com/Smjfirna/Movie_recommendation-system) Project to create a recommendation system from Movielens 100K dataset
+* [Customer Churn Prediction](https://github.com/Smjfirna/Customer-churn-prediction) predicting customer churn, which refers to the likelihood of a customer discontinuing their use of a company's product or service. By identifying customers who are at risk of churning, businesses can take proactive measures to retain them, thus enhancing customer satisfaction and profitability.
 
 ## Contact
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/syafirnamiftahuljannah/)
-- **Email**: [your.email@example.com](syafirnamiftahuljannah1@gmail.com)
+- **LinkedIn**: [Lets Connect!](https://www.linkedin.com/in/syafirnamiftahuljannah/)
 
