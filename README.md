@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm passionate about uncovering insights from data
 ## Projects 🚀
 
 ### Data Analisys 📊
-* [Data analisys with Streamlit Dashboard](https://github.com/Smjfirna/Bike-Sharing-Data-Analisys) Project Analyze Bike Sharing Dataset data and create interactive dashboard with streamlit
+* [Bike Sharing Data Analisys with Streamlit Dashboard](https://github.com/Smjfirna/Bike-Sharing-Data-Analisys) Project Analyze Bike Sharing Dataset data and create interactive dashboard with streamlit
 
 ### Data Science and Machine Learning 🤖
 * [FOODECTION](https://github.com/hildazaqya/project-capstone) A group capstone project in machine learning that focuses on food detection using Deep learning Cnvolutional Neural Network(CNN) algorithms.
