@@ -39,8 +39,7 @@ Welcome to my GitHub profile! I'm passionate about uncovering insights from data
 
 ### Data Science and Machine Learning 🤖
 * [FOODECTION](https://github.com/hildazaqya/project-capstone) A group capstone project in machine learning that focuses on food detection using Deep learning Cnvolutional Neural Network(CNN) algorithms.
-* [Mental Health Chatbot](https://github.com/Smjfirna/Mental-Health-Chatbot) A NLP Model developed during my independent study in Data Science to provide mental health resources.
-* [Movie Recommendation System](https://github.com/Smjfirna/Movie_recommendation-system) Project to create a recommendation system from Movielens 100K dataset
+* [Movie Lens Recommendation System](https://github.com/Smjfirna/Movie_recommendation-system) Project to create a recommendation system from Movielens 100K dataset
 * [Customer Churn Prediction](https://github.com/Smjfirna/Customer-churn-prediction) predicting customer churn, which refers to the likelihood of a customer discontinuing their use of a company's product or service. By identifying customers who are at risk of churning, businesses can take proactive measures to retain them, thus enhancing customer satisfaction and profitability.
 
 ## Contact 📬
